@@ -1,0 +1,27 @@
+body{
+            background-color: powderblue;
+        }
+        hr{
+            border-color: white;
+            width: 5%;
+            border-style:none;
+            border-width: 5px;
+            background-color: powderblue;
+            border-top-style: dotted;
+        }
+        h1{
+            color: #66bfbf;
+            font-family:Georgia, 'Times New Roman', Times, serif ;
+        }
+        h2{
+            color: #66bfbf;
+        }
+        h3{
+            color: #66bfbf;
+        }
+        p{
+            color: red;
+        }
+        .definition{
+            color: blue;
+        }
